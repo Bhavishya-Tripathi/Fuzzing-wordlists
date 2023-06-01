@@ -1,0 +1,2 @@
+# Fuzzing-wordlists
+bruteforce-wordlists
